@@ -18,18 +18,20 @@
 </p>
 
 <blockquote>
-  <p align="center"><b>"Learn by building from the ground up. Use technology to expand opportunities for the next generation."</b></p>
+  <p align="center"><b>"Learn deeply, build from the ground up, and direct technology toward expanding opportunities for the next generation."</b></p>
 </blockquote>
 
 </div>
 
 ---
 
-### 📌 About Me
+### 📌 About Me & Core Purpose
 
-I am a software developer focused on engineering practical tools, applying AI to real operational workflows, and learning through end-to-end product development. 
+I am a software developer learning through the discipline of building real products, exploring applied AI, and automating operational workflows.
 
-Underlying everything I learn and build is a long-term aspiration: **to apply technology toward improving educational access and creating meaningful opportunities for young people.** I believe the most durable way to reach that goal is to first build real technical depth, understand practical product constraints, and prove ideas through working software.
+At the heart of my work is a simple conviction: **the knowledge, technical depth, and products I build should ultimately have value beyond myself.** I study, experiment, and write software with a clear long-term direction—to use technology to improve educational access, empower young people with practical skills, and contribute meaningfully to the future development of Uzbekistan.
+
+I am not pretending to have arrived at the destination. I am on the path—learning from real-world constraints, building from $0, and ensuring that every project I create serves as a stepping stone toward something larger for the community and generation that comes after me.
 
 ---
 
@@ -183,13 +185,13 @@ Underlying everything I learn and build is a long-term aspiration: **to apply te
 
 ---
 
-### 🧭 Long-Term Direction: Education & Impact
+### 🧭 Long-Term Direction: Technology with Purpose
 
-I believe the true value of mastering software engineering and technology is what you can enable for others.
+I believe that true engineering excellence is measured not only by the complexity of the code, but by the doors it opens for others.
 
-My long-term direction is deeply connected to **education and youth empowerment in Uzbekistan**. I want to build software systems, tools, and platforms that lower the barrier to high-quality learning, help young builders discover their potential, and create practical economic opportunities for the generation coming after me.
+My long-term aspiration is to contribute to building modern educational and technological opportunities in Uzbekistan. By combining software development, practical mentorship, and applied AI, I want to help create an environment where any motivated young person—regardless of their starting point—can learn to build, create value, and shape their own future.
 
-I am still in the active process of learning and gaining depth—but every product I build and every line of code I write is a step toward making that long-term contribution a reality.
+The path is built one commit, one system, and one learner at a time.
 
 ---
 
