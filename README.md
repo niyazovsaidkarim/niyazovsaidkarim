@@ -1,76 +1,179 @@
+<div align="center">
+
 # Saidkarim Niyazov
 
 **Software Developer • AI • Automation • Product Development**
 
-I am a software developer building practical tools and exploring applied AI, automation, and product development. I learn primarily through the process of building—turning real operational friction into functional, well-designed software.
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software_Developer-2563EB?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-059669?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-Real_Products-7C3AED?style=flat-square" alt="Building" />
+  <img src="https://img.shields.io/badge/Location-Uzbekistan-EA580C?style=flat-square" alt="Location" />
+</p>
 
-I am focused on developing technical depth, understanding user workflows, and gaining the hands-on experience required to take software from concept to deployment.
+<p align="center">
+  <i>Building practical software, exploring applied AI workflows, and learning through end-to-end product development.</i>
+</p>
 
----
-
-## What I Work On
-
-- **Software Development** — Writing clean code, designing backend services, and building responsive web applications.
-- **AI & Automation** — Building workflow automations, integrating language models into business processes, and reducing manual operational tasks.
-- **Product Development & Logic** — Translating user needs into clear technical requirements, structuring product workflows, and iterating based on real usage.
-
----
-
-## Featured Projects
-
-### [SmartHotelAssistant](https://github.com/niyazovsaidkarim/SmartHotelAssistant)
-A hotel service automation platform designed to make communication between guests and hotel staff faster and more structured.
-- Enables hotel guests to browse and request internal hotel services directly from their phones without having to call or visit reception for every need.
-- Routes requests directly to staff to streamline task fulfillment and reduce operational friction at the front desk.
-
-### [SalePilot AI](https://salespilotai.uz/)
-An AI revenue operating system designed for businesses communicating and selling through Instagram and Telegram.
-- **Lead Capture & Unified Inbox:** Automatically logs incoming inquiries from DMs, comments, and story interactions into a centralized team workspace.
-- **AI-Powered Communication:** Provides 24/7 automated responses tailored to catalog details, pricing inquiries, and customer context.
-- **Smart Follow-Ups & Analytics:** Re-engages quiet leads through structured follow-up sequences and tracks conversion rates across sales channels.
-
-### [StartupShowcase](https://github.com/niyazovsaidkarim/StartupShowcase)
-An initiative connected to the Startup Ambassadors ecosystem in Uzbekistan.
-- Focuses on discovering and highlighting promising early-stage projects and young founders across the country.
-- Helps connect emerging talent with the broader Uzbek startup and mentorship ecosystem to support their next stages of development.
+</div>
 
 ---
 
-## Technologies
+### 📌 About Me
 
-- **Languages:** Python, TypeScript, JavaScript
-- **Backend & Architecture:** REST APIs, Node.js, asynchronous services
-- **AI & Automation:** LLM integration, workflow automation, prompt engineering
-- **Tools & Environment:** Linux, Git, GitHub
+I am a software developer focused on engineering practical tools and automating operational workflows. I learn primarily through the process of building—translating real-world problems into functional, reliable, and well-designed software.
+
+Currently focused on deepening my technical foundations, exploring practical AI integrations, and mastering the full lifecycle of product development from concept to deployment.
 
 ---
 
-## GitHub Activity
+### 🛠️ What I Work On
 
-[![Streak Stats](https://streak-stats.demolab.com/?user=niyazovsaidkarim&theme=github-dark-dimmed&hide_border=true)](https://github.com/niyazovsaidkarim)
+- **Software Engineering** — Designing robust backend architectures, clean APIs, and responsive web applications.
+- **AI & Automation** — Building autonomous workflows, integrating LLMs into business processes, and removing operational friction.
+- **Product Development & Logic** — Translating user needs into clear technical requirements, structuring product workflows, and iterating based on real feedback.
 
-### GitHub Achievements
-<a href="https://github.com/niyazovsaidkarim?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="56" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/niyazovsaidkarim/SmartHotelAssistant">SmartHotelAssistant</a></h3>
+      <p><b>Hotel Service Automation Platform</b></p>
+      <p>A digital platform designed to streamline guest-to-staff interactions in hotels.</p>
+      <ul>
+        <li>Allows guests to view and request internal hotel services from their smartphones without front desk queues.</li>
+        <li>Directly routes service requests to the appropriate staff departments for fast fulfillment.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://salespilotai.uz/">SalePilot AI</a></h3>
+      <p><b>AI Revenue Operating System</b></p>
+      <p>An intelligent operations engine built for businesses selling via Instagram and Telegram.</p>
+      <ul>
+        <li><b>Lead Capture & Inbox:</b> Centralizes DM, comment, and story leads into a unified workspace.</li>
+        <li><b>24/7 AI Communication:</b> Delivers instant responses based on product catalogs and context.</li>
+        <li><b>Automated Follow-ups:</b> Re-engages quiet leads and tracks sales conversion rates.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Automation-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 <a href="https://github.com/niyazovsaidkarim/StartupShowcase">StartupShowcase</a></h3>
+      <p><b>Startup Ambassadors Ecosystem Initiative</b></p>
+      <p>A structured initiative aimed at discovering, evaluating, and supporting promising early-stage tech projects and young founders across Uzbekistan, connecting them with mentorship and the wider startup community.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ecosystem-Community-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Initiative-Uzbekistan-0284C7?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Technologies & Stack
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square" /> |
+| **AI & Automation** | <img src="https://img.shields.io/badge/LLM_Integrations-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Workflow_Automation-059669?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-D97706?style=flat-square" /> |
+| **Environment & Tools** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+
+<!-- Profile Details Card (Full Width) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niyazovsaidkarim&theme=github_dark" width="100%" alt="Profile Details" />
+
+<br/><br/>
+
+<!-- Stats & Productive Time Cards (Side by Side) -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niyazovsaidkarim&theme=github_dark" width="100%" alt="GitHub Overall Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niyazovsaidkarim&theme=github_dark&utcOffset=5" width="100%" alt="Productive Time (UTC+5)" />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak Card -->
+<br/>
+<a href="https://github.com/niyazovsaidkarim">
+  <img src="https://streak-stats.demolab.com/?user=niyazovsaidkarim&theme=github-dark-dimmed&hide_border=true" width="90%" alt="GitHub Streak Stats" />
 </a>
-<a href="https://github.com/niyazovsaidkarim?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="56" alt="Pull Shark ×2" title="Pull Shark ×2" />
-</a>
-<a href="https://github.com/niyazovsaidkarim?tab=achievements">
-  <img src="https://github.githubassets.com/assets/galaxy-brain-bronze-da3c4829fd22.png" width="56" alt="Galaxy Brain ×2" title="Galaxy Brain ×2" />
-</a>
+
+</div>
 
 ---
 
-## Direction
+### 🏆 Achievements
 
-I believe the most effective way to grow is to build consistently, learn through real constraints, and stay grounded about where I am on the journey.
-
-Over time, my goal is to apply the technical and product experience I develop toward education and creating opportunities for others. I want what I build to eventually contribute in a meaningful, practical way to the development of Uzbekistan and to the young people who come next.
+<div align="center">
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="60" alt="Pull Shark" title="Pull Shark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-bronze-da3c4829fd22.png" width="60" alt="Galaxy Brain" title="Galaxy Brain" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" title="Quickdraw" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="60" alt="YOLO" title="YOLO" />
+  </a>
+</div>
 
 ---
 
-## Contact
+### 🧭 Long-Term Direction
 
-- **Email:** [saidkarimniyazov@gmail.com](mailto:saidkarimniyazov@gmail.com)
-- **GitHub:** [@niyazovsaidkarim](https://github.com/niyazovsaidkarim)
+I believe the most reliable way to grow is to build consistently, learn from real constraints, and stay grounded about where I am on the learning curve.
+
+Over the long term, my goal is to direct the engineering and product experience I gain toward education and opportunity creation. I want the systems and software I build to eventually extend beyond individual projects—helping improve educational access and opening practical paths for the next generation of young builders and learners in Uzbekistan.
+
+---
+
+### 📬 Get in Touch
+
+<div align="center">
+
+<a href="mailto:saidkarimniyazov@gmail.com">
+  <img src="https://img.shields.io/badge/Email-saidkarimniyazov%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/niyazovsaidkarim">
+  <img src="https://img.shields.io/badge/GitHub-niyazovsaidkarim-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
