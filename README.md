@@ -1,20 +1,24 @@
 <div align="center">
 
-<!-- 3D Motion Waving Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1E3A8A,50:3B82F6,100:06B6D4&height=195&section=header&text=Saidkarim%20Niyazov&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Automation%20%E2%80%A2%20Product%20Engineering&descFontSize=16&descAlignY=62" width="100%" alt="Saidkarim Niyazov Header Banner" />
+<!-- UzCombinator Signature Motion Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090D16,40:FB6A00,100:FF8A00&height=195&section=header&text=Saidkarim%20Niyazov&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Engineering&descFontSize=16&descAlignY=62" width="100%" alt="Saidkarim Niyazov Header" />
 
-<!-- Dynamic Motion Typing SVG -->
+<!-- Dynamic Motion Typing SVG in UzCombinator Orange -->
 <a href="https://github.com/niyazovsaidkarim">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Applied+AI+%26+Automation;Building+Real+Products;Ecosystem+Initiatives+%40+Samarkand&center=true&width=520&height=45&color=38BDAE&vCenter=true&size=19" alt="Typing Motion SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+from+%240;Applied+AI+%26+Automation;Startup+Ecosystem+%40+Samarkand&center=true&width=520&height=45&color=FB6A00&vCenter=true&size=19" alt="Typing Motion SVG" />
 </a>
 
-<!-- Status & Identity Badges -->
+<!-- Identity & Status Badges in UzCombinator Palette -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software_Developer-2563EB?style=for-the-badge&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-059669?style=for-the-badge&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Building-From_The_Ground_Up-7C3AED?style=for-the-badge&logoColor=white" alt="Building" />
-  <img src="https://img.shields.io/badge/Location-Samarkand%2C_Uzbekistan-EA580C?style=for-the-badge&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Software_Developer-FB6A00?style=for-the-badge&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Mindset-Build_From_$0-090D16?style=for-the-badge&logoColor=white" alt="Mindset" />
+  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Automation-FB6A00?style=for-the-badge&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Samarkand%2C_Uzbekistan-1E293B?style=for-the-badge&logoColor=white" alt="Location" />
 </p>
+
+<blockquote>
+  <p align="center"><i>"Build real software that solves real operational friction. Learn by shipping from the ground up."</i></p>
+</blockquote>
 
 </div>
 
@@ -28,7 +32,7 @@ Currently developing my technical depth, experimenting with applied AI systems, 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Products & Systems
 
 <table>
   <tr>
@@ -43,7 +47,7 @@ Currently developing my technical depth, experimenting with applied AI systems, 
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST_API-FB6A00?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -56,7 +60,7 @@ Currently developing my technical depth, experimenting with applied AI systems, 
         <li><b>Automated Follow-ups:</b> Re-engages quiet leads and tracks sales conversion performance.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/AI_Automation-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Automation-FB6A00?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
@@ -74,12 +78,12 @@ Currently developing my technical depth, experimenting with applied AI systems, 
 
 ---
 
-### 🔮 3D Tech Stack & Tools
+### 🔮 3D Tech Stack & Architecture
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,fastapi,react,nextjs,postgres,docker,linux,git,github,postman&perline=7&theme=dark" alt="3D Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,fastapi,react,nextjs,postgres,docker,linux,git,github,postman&perline=7&theme=dark" alt="3D Tech Stack" />
 </a>
 
 <br/><br/>
@@ -101,7 +105,7 @@ Currently developing my technical depth, experimenting with applied AI systems, 
   <tr>
     <td width="100%" valign="top">
       <h3>🇺🇿 <a href="https://t.me/samarkandstartup">Startup Ambassadors | Samarkand</a></h3>
-      <p><b>A regional initiative dedicated to developing the tech startup ecosystem in Samarkand.</b></p>
+      <p><b>A regional ecosystem initiative dedicated to developing the startup & builder ecosystem in Samarkand.</b></p>
       <p>Fostering an innovation and builder mindset among youth across the Samarkand region—discovering emerging talent, conducting practical workshops, and supporting the journey from initial concept to viable tech product.</p>
       <ul>
         <li>🎯 <b>Direction:</b> From Idea to Practical Startups</li>
@@ -111,7 +115,7 @@ Currently developing my technical depth, experimenting with applied AI systems, 
       </ul>
       <p>
         <a href="https://t.me/samarkandstartup">
-          <img src="https://img.shields.io/badge/Telegram_Community-@samarkandstartup-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Community Channel" />
+          <img src="https://img.shields.io/badge/Telegram_Community-@samarkandstartup-FB6A00?style=for-the-badge&logo=telegram&logoColor=white" alt="Community Channel" />
         </a>
       </p>
     </td>
@@ -141,10 +145,10 @@ Currently developing my technical depth, experimenting with applied AI systems, 
   </tr>
 </table>
 
-<!-- Dynamic Streak Card -->
+<!-- UzCombinator Themed Streak Card -->
 <br/>
 <a href="https://github.com/niyazovsaidkarim">
-  <img src="https://streak-stats.demolab.com/?user=niyazovsaidkarim&theme=github-dark-dimmed&hide_border=true" width="90%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=niyazovsaidkarim&theme=dark&fire=FB6A00&ring=FB6A00&currStreakNum=FB6A00&sideNums=FB6A00&sideLabels=94A3B8&dates=64748B&hide_border=true" width="90%" alt="GitHub Streak Stats" />
 </a>
 
 </div>
@@ -194,11 +198,11 @@ Over the long term, my goal is to direct the engineering and product experience 
 </a>
 &nbsp;
 <a href="https://t.me/Saidkarimniyazov">
-  <img src="https://img.shields.io/badge/Telegram-@Saidkarimniyazov-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram PM" />
+  <img src="https://img.shields.io/badge/Telegram-@Saidkarimniyazov-FB6A00?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram PM" />
 </a>
 &nbsp;
 <a href="https://t.me/saidkarim_mindset">
-  <img src="https://img.shields.io/badge/Channel-Saidkarim_%7C_Mindset-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+  <img src="https://img.shields.io/badge/Channel-Saidkarim_%7C_Mindset-090D16?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
 </a>
 &nbsp;
 <a href="mailto:saidkarimniyazov@gmail.com">
