@@ -1,18 +1,18 @@
 <div align="center">
 
-# Saidkarim Niyazov
+<!-- Motion Waving 3D Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1E3A8A,50:3B82F6,100:06B6D4&height=190&section=header&text=Saidkarim%20Niyazov&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20%E2%80%A2%20Automation%20%E2%80%A2%20Product%20Engineering&descFontSize=16&descAlignY=62" width="100%" alt="Saidkarim Niyazov" />
 
-**Software Developer • AI • Automation • Product Development**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Software_Developer-2563EB?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-059669?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Building-Real_Products-7C3AED?style=flat-square" alt="Building" />
-  <img src="https://img.shields.io/badge/Location-Uzbekistan-EA580C?style=flat-square" alt="Location" />
-</p>
+<!-- Dynamic Motion Typing SVG -->
+<a href="https://github.com/niyazovsaidkarim">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Applied+AI+%26+Automation;Building+Real+Products;Ecosystem+Initiatives+%40+Samarkand&center=true&width=520&height=45&color=38BDAE&vCenter=true&size=19" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <i>Building practical software, exploring applied AI workflows, and learning through end-to-end product development.</i>
+  <img src="https://img.shields.io/badge/Role-Software_Developer-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-059669?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building-From_The_Ground_Up-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Samarkand%2C_Uzbekistan-EA580C?style=for-the-badge&logoColor=white" />
 </p>
 
 </div>
@@ -21,17 +21,38 @@
 
 ### 📌 About Me
 
-I am a software developer focused on engineering practical tools and automating operational workflows. I learn primarily through the process of building—translating real-world problems into functional, reliable, and well-designed software.
+I am a software developer focused on engineering practical tools, applying AI to real workflows, and building software solutions end-to-end. I learn primarily through the process of building—turning real operational friction into functional, reliable, and well-designed products.
 
-Currently focused on deepening my technical foundations, exploring practical AI integrations, and mastering the full lifecycle of product development from concept to deployment.
+Currently developing my technical depth, experimenting with applied AI systems, and gaining the hands-on experience required to take software from concept to deployment.
 
 ---
 
 ### 🛠️ What I Work On
 
-- **Software Engineering** — Designing robust backend architectures, clean APIs, and responsive web applications.
-- **AI & Automation** — Building autonomous workflows, integrating LLMs into business processes, and removing operational friction.
-- **Product Development & Logic** — Translating user needs into clear technical requirements, structuring product workflows, and iterating based on real feedback.
+- 💻 **Software Engineering** — Designing maintainable backend services, clean APIs, and responsive web applications.
+- 🤖 **Applied AI & Automation** — Building workflow automations, integrating language models into business operations, and removing manual bottlenecks.
+- 🎯 **Product Development & Logic** — Translating user problems into clear technical requirements, structuring product architecture, and iterating based on real usage.
+
+---
+
+### 🔮 3D Tech Stack & Tools
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,fastapi,react,nextjs,postgres,docker,linux,git,github,postman&perline=7&theme=dark" alt="3D Tech Stack" />
+</a>
+
+<br/><br/>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Runtimes** | `Python` • `TypeScript` • `JavaScript` • `Node.js` |
+| **Frameworks & APIs** | `FastAPI` • `React` • `Next.js` • `REST APIs` |
+| **AI & Automation** | `LLM Integration` • `Workflow Automation` • `Prompt Architecture` |
+| **Environment & Data** | `Linux` • `PostgreSQL` • `Git` • `Docker` • `GitHub Actions` |
+
+</div>
 
 ---
 
@@ -42,10 +63,10 @@ Currently focused on deepening my technical foundations, exploring practical AI 
     <td width="50%" valign="top">
       <h3>🏨 <a href="https://github.com/niyazovsaidkarim/SmartHotelAssistant">SmartHotelAssistant</a></h3>
       <p><b>Hotel Service Automation Platform</b></p>
-      <p>A digital platform designed to streamline guest-to-staff interactions in hotels.</p>
+      <p>A digital platform designed to streamline guest-to-staff communication in hospitality.</p>
       <ul>
-        <li>Allows guests to view and request internal hotel services from their smartphones without front desk queues.</li>
-        <li>Directly routes service requests to the appropriate staff departments for fast fulfillment.</li>
+        <li>Enables guests to browse and request internal hotel services from their smartphones without front-desk queues.</li>
+        <li>Directly routes requests to staff departments to reduce fulfillment friction and improve coordination.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -69,33 +90,32 @@ Currently focused on deepening my technical foundations, exploring practical AI 
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🌐 <a href="https://github.com/niyazovsaidkarim/StartupShowcase">StartupShowcase</a></h3>
-      <p><b>Startup Ambassadors Ecosystem Initiative</b></p>
-      <p>A structured initiative aimed at discovering, evaluating, and supporting promising early-stage tech projects and young founders across Uzbekistan, connecting them with mentorship and the wider startup community.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Ecosystem-Community-059669?style=flat-square" />
-        <img src="https://img.shields.io/badge/Initiative-Uzbekistan-0284C7?style=flat-square" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
 
-### 💻 Technologies & Stack
+### 🏛️ Community & Ecosystem Leadership
 
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
-| **Backend & APIs** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square" /> |
-| **AI & Automation** | <img src="https://img.shields.io/badge/LLM_Integrations-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Workflow_Automation-059669?style=flat-square" /> <img src="https://img.shields.io/badge/Prompt_Engineering-D97706?style=flat-square" /> |
-| **Environment & Tools** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
-
-</div>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🇺🇿 <a href="https://t.me/samarkandstartup">Startup Ambassadors | Samarkand</a></h3>
+      <p><b>Samarqandda startup ekotizimini rivojlantirishga qaratilgan hamjamiyat</b></p>
+      <p>Samarqand viloyatida yoshlar orasida startap madaniyatini shakllantirish, iqtidorli yoshlarni kashf etish va ularning g'oyalarini real biznes hamda texnologik loyihalarga aylantirishga ko'maklashuvchi tashabbus.</p>
+      <ul>
+        <li>🎯 <b>Yo‘nalish:</b> G‘oyadan amaliy startaplargacha</li>
+        <li>💡 <b>Faoliyat:</b> Treninglar • Meetuplar • Amaliy Hakatonlar va Tadbirlar</li>
+        <li>🌱 <b>Ekotizim:</b> Yoshlar Ventures ekotizimi</li>
+        <li>🤝 <b>Tashabbus:</b> Yoshlar Ventures | Yoshlar ishlari agentligi</li>
+      </ul>
+      <p>
+        <a href="https://t.me/samarkandstartup">
+          <img src="https://img.shields.io/badge/Telegram_Community-@samarkandstartup-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Community Channel" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -120,7 +140,7 @@ Currently focused on deepening my technical foundations, exploring practical AI 
   </tr>
 </table>
 
-<!-- Streak Card -->
+<!-- Dynamic Streak Card -->
 <br/>
 <a href="https://github.com/niyazovsaidkarim">
   <img src="https://streak-stats.demolab.com/?user=niyazovsaidkarim&theme=github-dark-dimmed&hide_border=true" width="90%" alt="GitHub Streak Stats" />
@@ -134,6 +154,14 @@ Currently focused on deepening my technical foundations, exploring practical AI 
 
 <div align="center">
   <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" title="Quickdraw" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60" alt="YOLO" title="YOLO" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
     <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
   </a>
   &nbsp;&nbsp;
@@ -144,19 +172,11 @@ Currently focused on deepening my technical foundations, exploring practical AI 
   <a href="https://github.com/niyazovsaidkarim?tab=achievements">
     <img src="https://github.githubassets.com/assets/galaxy-brain-bronze-da3c4829fd22.png" width="60" alt="Galaxy Brain" title="Galaxy Brain" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" title="Quickdraw" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/niyazovsaidkarim?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="60" alt="YOLO" title="YOLO" />
-  </a>
 </div>
 
 ---
 
-### 🧭 Long-Term Direction
+### 🧭 Direction & Vision
 
 I believe the most reliable way to grow is to build consistently, learn from real constraints, and stay grounded about where I am on the learning curve.
 
@@ -164,16 +184,24 @@ Over the long term, my goal is to direct the engineering and product experience 
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect & Channels
 
 <div align="center">
 
-<a href="mailto:saidkarimniyazov@gmail.com">
-  <img src="https://img.shields.io/badge/Email-saidkarimniyazov%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378">
+  <img src="https://img.shields.io/badge/LinkedIn-Saidkarim_Niyazov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://github.com/niyazovsaidkarim">
-  <img src="https://img.shields.io/badge/GitHub-niyazovsaidkarim-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://t.me/Saidkarimniyazov">
+  <img src="https://img.shields.io/badge/Telegram-@Saidkarimniyazov-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram PM" />
+</a>
+&nbsp;
+<a href="https://t.me/saidkarim_mindset">
+  <img src="https://img.shields.io/badge/Channel-Saidkarim_%7C_Mindset-7C3AED?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+</a>
+&nbsp;
+<a href="mailto:saidkarimniyazov@gmail.com">
+  <img src="https://img.shields.io/badge/Email-saidkarimniyazov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
