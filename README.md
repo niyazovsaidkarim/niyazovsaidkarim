@@ -100,13 +100,13 @@ Currently developing my technical depth, experimenting with applied AI systems, 
   <tr>
     <td width="100%" valign="top">
       <h3>🇺🇿 <a href="https://t.me/samarkandstartup">Startup Ambassadors | Samarkand</a></h3>
-      <p><b>Samarqandda startup ekotizimini rivojlantirishga qaratilgan hamjamiyat</b></p>
-      <p>Samarqand viloyatida yoshlar orasida startap madaniyatini shakllantirish, iqtidorli yoshlarni kashf etish va ularning g'oyalarini real biznes hamda texnologik loyihalarga aylantirishga ko'maklashuvchi tashabbus.</p>
+      <p><b>A regional initiative dedicated to developing the tech startup ecosystem in Samarkand.</b></p>
+      <p>Fostering an innovation and builder mindset among youth across the Samarkand region—discovering emerging talent, conducting practical workshops, and supporting the journey from initial concept to viable tech product.</p>
       <ul>
-        <li>🎯 <b>Yo‘nalish:</b> G‘oyadan amaliy startaplargacha</li>
-        <li>💡 <b>Faoliyat:</b> Treninglar • Meetuplar • Amaliy Hakatonlar va Tadbirlar</li>
-        <li>🌱 <b>Ekotizim:</b> Yoshlar Ventures ekotizimi</li>
-        <li>🤝 <b>Tashabbus:</b> Yoshlar Ventures | Yoshlar ishlari agentligi</li>
+        <li>🎯 <b>Direction:</b> From Idea to Practical Startups</li>
+        <li>💡 <b>Activities:</b> Practical Workshops • Founder Meetups • Hackathons & Community Events</li>
+        <li>🌱 <b>Ecosystem:</b> Yoshlar Ventures Ecosystem</li>
+        <li>🤝 <b>Supported by:</b> Yoshlar Ventures | Youth Affairs Agency of Uzbekistan</li>
       </ul>
       <p>
         <a href="https://t.me/samarkandstartup">
