@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- UzCombinator Signature Motion Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090D16,40:FB6A00,100:FF8A00&height=195&section=header&text=Saidkarim%20Niyazov&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Product%20Engineering&descFontSize=16&descAlignY=62" width="100%" alt="Saidkarim Niyazov Header" />
+# ⚡ Saidkarim Niyazov
 
-<!-- Dynamic Motion Typing SVG in UzCombinator Orange -->
-<a href="https://github.com/niyazovsaidkarim">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+from+%240;Applied+AI+%26+Automation;Startup+Ecosystem+%40+Samarkand&center=true&width=520&height=45&color=FB6A00&vCenter=true&size=19" alt="Typing Motion SVG" />
-</a>
+### `Software Developer` • `Applied AI & Automation` • `Product Engineering`
 
-<!-- Identity & Status Badges in UzCombinator Palette -->
+<p align="center">
+  <a href="https://github.com/niyazovsaidkarim">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+from+%240;Software+Developer+%E2%80%A2+Applied+AI;Turning+Real+Problems+into+Products;Startup+Ecosystem+%40+Samarkand&center=true&width=550&height=40&color=FB6A00&vCenter=true&size=19&font=Fira+Code" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software_Developer-FB6A00?style=for-the-badge&logoColor=white" alt="Role" />
   <img src="https://img.shields.io/badge/Mindset-Build_From_$0-090D16?style=for-the-badge&logoColor=white" alt="Mindset" />
@@ -17,7 +18,7 @@
 </p>
 
 <blockquote>
-  <p align="center"><i>"Build real software that solves real operational friction. Learn by shipping from the ground up."</i></p>
+  <p align="center"><b>"Make something people actually need. Learn by shipping from the ground up."</b></p>
 </blockquote>
 
 </div>
