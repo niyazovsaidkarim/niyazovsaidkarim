@@ -2,23 +2,23 @@
 
 # ⚡ Saidkarim Niyazov
 
-### `Software Developer` • `Applied AI & Automation` • `Product Engineering`
+### `Software Developer` • `Applied AI & Automation` • `Education & Youth Opportunities`
 
 <p align="center">
   <a href="https://github.com/niyazovsaidkarim">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+from+%240;Software+Developer+%E2%80%A2+Applied+AI;Turning+Real+Problems+into+Products;Startup+Ecosystem+%40+Samarkand&center=true&width=550&height=40&color=FB6A00&vCenter=true&size=19&font=Fira+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Engineering+for+Education+%26+Opportunity;Building+from+%240;Applied+AI+%26+Automation;Youth+Startup+Ecosystem+%40+Samarkand&center=true&width=570&height=40&color=FB6A00&vCenter=true&size=18&font=Fira+Code" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software_Developer-FB6A00?style=for-the-badge&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Mindset-Build_From_$0-090D16?style=for-the-badge&logoColor=white" alt="Mindset" />
-  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Automation-FB6A00?style=for-the-badge&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Long--Term_Focus-Education_%26_Opportunity-090D16?style=for-the-badge&logoColor=white" alt="Education Focus" />
+  <img src="https://img.shields.io/badge/Mindset-Build_From_$0-FB6A00?style=for-the-badge&logoColor=white" alt="Mindset" />
   <img src="https://img.shields.io/badge/Location-Samarkand%2C_Uzbekistan-1E293B?style=for-the-badge&logoColor=white" alt="Location" />
 </p>
 
 <blockquote>
-  <p align="center"><b>"Make something people actually need. Learn by shipping from the ground up."</b></p>
+  <p align="center"><b>"Learn by building from the ground up. Use technology to expand opportunities for the next generation."</b></p>
 </blockquote>
 
 </div>
@@ -27,9 +27,9 @@
 
 ### 📌 About Me
 
-I am a software developer focused on engineering practical tools, applying AI to real operational workflows, and learning through end-to-end product development. I believe the most effective way to grow is to build consistently—turning real friction into clean, reliable, and well-structured software.
+I am a software developer focused on engineering practical tools, applying AI to real operational workflows, and learning through end-to-end product development. 
 
-Currently developing my technical depth, experimenting with applied AI systems, and gaining the hands-on experience required to take products from initial concept to production deployment.
+Underlying everything I learn and build is a long-term aspiration: **to apply technology toward improving educational access and creating meaningful opportunities for young people.** I believe the most durable way to reach that goal is to first build real technical depth, understand practical product constraints, and prove ideas through working software.
 
 ---
 
@@ -75,7 +75,33 @@ Currently developing my technical depth, experimenting with applied AI systems, 
 
 - 💻 **Software Engineering** — Designing maintainable backend services, clean APIs, and responsive web applications.
 - 🤖 **Applied AI & Automation** — Building workflow automations, integrating language models into business operations, and eliminating manual bottlenecks.
+- 🎓 **Education & Opportunity Systems** — Exploring how technology, mentorship, and practical engineering can make high-quality learning and technical skills accessible to youth across Uzbekistan.
 - 🎯 **Product Development & Logic** — Translating user problems into clear technical requirements, structuring product architecture, and iterating based on real usage.
+
+---
+
+### 🏛️ Community, Education & Ecosystem Leadership
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🇺🇿 <a href="https://t.me/samarkandstartup">Startup Ambassadors | Samarkand</a></h3>
+      <p><b>A regional ecosystem & youth empowerment initiative in Samarkand.</b></p>
+      <p>Dedicated to fostering a culture of innovation, hands-on learning, and entrepreneurship among young people across the Samarkand region—discovering emerging talent, running practical workshops, and helping students turn ideas into working tech prototypes.</p>
+      <ul>
+        <li>🎯 <b>Direction:</b> From Idea to Practical Startups & Hands-On Skills</li>
+        <li>💡 <b>Education & Activities:</b> Practical Workshops • Founder Meetups • Skill-Building Hackathons</li>
+        <li>🌱 <b>Ecosystem:</b> Yoshlar Ventures Ecosystem</li>
+        <li>🤝 <b>Supported by:</b> Yoshlar Ventures | Youth Affairs Agency of Uzbekistan</li>
+      </ul>
+      <p>
+        <a href="https://t.me/samarkandstartup">
+          <img src="https://img.shields.io/badge/Telegram_Community-@samarkandstartup-FB6A00?style=for-the-badge&logo=telegram&logoColor=white" alt="Community Channel" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,31 +123,6 @@ Currently developing my technical depth, experimenting with applied AI systems, 
 | **Environment & Data** | `Linux` • `PostgreSQL` • `Git` • `Docker` • `GitHub Actions` |
 
 </div>
-
----
-
-### 🏛️ Community & Ecosystem Leadership
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🇺🇿 <a href="https://t.me/samarkandstartup">Startup Ambassadors | Samarkand</a></h3>
-      <p><b>A regional ecosystem initiative dedicated to developing the startup & builder ecosystem in Samarkand.</b></p>
-      <p>Fostering an innovation and builder mindset among youth across the Samarkand region—discovering emerging talent, conducting practical workshops, and supporting the journey from initial concept to viable tech product.</p>
-      <ul>
-        <li>🎯 <b>Direction:</b> From Idea to Practical Startups</li>
-        <li>💡 <b>Activities:</b> Practical Workshops • Founder Meetups • Hackathons & Community Events</li>
-        <li>🌱 <b>Ecosystem:</b> Yoshlar Ventures Ecosystem</li>
-        <li>🤝 <b>Supported by:</b> Yoshlar Ventures | Youth Affairs Agency of Uzbekistan</li>
-      </ul>
-      <p>
-        <a href="https://t.me/samarkandstartup">
-          <img src="https://img.shields.io/badge/Telegram_Community-@samarkandstartup-FB6A00?style=for-the-badge&logo=telegram&logoColor=white" alt="Community Channel" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -182,11 +183,13 @@ Currently developing my technical depth, experimenting with applied AI systems, 
 
 ---
 
-### 🧭 Direction & Vision
+### 🧭 Long-Term Direction: Education & Impact
 
-I believe the most reliable way to grow is to build consistently, learn from real constraints, and stay grounded about where I am on the learning curve.
+I believe the true value of mastering software engineering and technology is what you can enable for others.
 
-Over the long term, my goal is to direct the engineering and product experience I gain toward education and opportunity creation. I want the systems and software I build to eventually extend beyond individual projects—helping improve educational access and opening practical paths for the next generation of young builders and learners in Uzbekistan.
+My long-term direction is deeply connected to **education and youth empowerment in Uzbekistan**. I want to build software systems, tools, and platforms that lower the barrier to high-quality learning, help young builders discover their potential, and create practical economic opportunities for the generation coming after me.
+
+I am still in the active process of learning and gaining depth—but every product I build and every line of code I write is a step toward making that long-term contribution a reality.
 
 ---
 
